@@ -105,7 +105,7 @@ server <- function(input, output) {
     filtered()
   })
   
-  # Feature 4: 
+  # Feature 2: 
   output$filterResult<-
     renderText({
       numResults <- nrow(filtered())
@@ -115,7 +115,7 @@ server <- function(input, output) {
       paste("We found ", numResults, " options for you!")
     })
   
-  # Feature 2: I used downloadHandler to allow users to download the result they need.
+  # Feature 4: I used downloadHandler to allow users to download the result they need.
   output$download <- downloadHandler(
     filename = function() {
       "BC_Liquor_Results.csv"
