@@ -1,10 +1,13 @@
 library(shiny)
 library(ggplot2)
 library(dplyr)
+library(shinythemes)
 
 bcl <- read.csv("bcl-data.csv", stringsAsFactors = FALSE)
 
 ui <- fluidPage(
+  # Feature 7: I added a shiny theme to make the website look nicer.
+  theme = shinytheme("superhero"),
   titlePanel("BC Liquor Store prices"),
   sidebarLayout(
     sidebarPanel(

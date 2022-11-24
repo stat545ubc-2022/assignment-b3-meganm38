@@ -1,0 +1,14 @@
+name: bcliquor_advancedv4
+title: bcliquor_advancedv4
+username:
+account: meganm38
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7726301
+bundleId: 6551848
+url: https://meganm38.shinyapps.io/bcliquor_advancedv4/
+when: 1669321049.40976
+lastSyncTime: 1669321049.4098
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.md
