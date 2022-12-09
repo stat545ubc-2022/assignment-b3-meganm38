@@ -10,6 +10,7 @@ Option C – A new Shiny App built from scratch
 
 ## Description
 
+This is an app that uses and visualizes the crime data from selected neighbourhoods in Vancouver. It allow users to select specific ranges in months, dates, hours and minutes to filter the data. It also allows users to select multiple neighbouhoods to compare the crime rates based on user-selectable crime types. Last but not the least, users can download not only the filtered data but also the graphs generated from the data and can interact with the results table to search for specific streets of interest.
 
 
 ## Acknowledgement
