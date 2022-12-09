@@ -1,4 +1,23 @@
-# BC Liquor Store Advanced
+# Assignment B-4 Vancouver Crime Data 2021
+
+## App Link
+
+https://meganm38.shinyapps.io/megan_assignment4/
+
+## Assignment Option
+
+Option C – A new Shiny App built from scratch
+
+## Description
+
+
+
+## Acknowledgement
+
+The dataset used in this project is [Vancouver Police Department (VPD) crime data](https://geodash.vpd.ca/opendata/).
+
+
+# Assignment B-3 BC Liquor Store Advanced
 
 ## App Link
 
