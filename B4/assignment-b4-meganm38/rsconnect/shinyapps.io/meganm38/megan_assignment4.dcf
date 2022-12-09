@@ -1,0 +1,14 @@
+name: megan_assignment4
+title: megan_assignment4
+username:
+account: meganm38
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7859846
+bundleId: 6617317
+url: https://meganm38.shinyapps.io/megan_assignment4/
+when: 1670616809.73846
+lastSyncTime: 1670616809.73847
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: legal_disclaimer.txt|VPD OpenData Crime Incidents Description.pdf
